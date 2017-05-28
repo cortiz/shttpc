@@ -16,6 +16,6 @@ public class SampleIntegrationTest {
     @Test
     public void isFalse() {
         Sample sample = new Sample();
-        assertTrue(sample.returnFalse());
+        assertTrue(!sample.returnFalse());
     }
 }
