@@ -4,6 +4,6 @@ jdk:
 before_script:
    - chmod +x gradlew
 script:
-- gradle check integration codeCoverageReport
+- gradle check integration jacocoTestReport
 after_success:
   - bash <(curl -s https://codecov.io/bash)
