@@ -3,8 +3,8 @@
 One Paragraph of project description goes here
 
 [![codebeat badge](https://codebeat.co/badges/dc8a4180-51f1-4140-a131-75e85c5d1365)](https://codebeat.co/projects/github-com-cortiz-shttpc-develop)
-[![Build Status](https://travis-ci.org/cortiz/shttpc.svg?branch=master)](https://travis-ci.org/cortiz/shttpc)
-[![codecov](https://codecov.io/gh/cortiz/shttpc/branch/master/graph/badge.svg)](https://codecov.io/gh/cortiz/shttpc)
+[![Build Status](https://travis-ci.org/cortiz/shttpc.svg?branch=develop)](https://travis-ci.org/cortiz/shttpc)
+[![codecov](https://codecov.io/gh/cortiz/shttpc/branch/develop/graph/badge.svg)](https://codecov.io/gh/cortiz/shttpc)
 
 ## Getting Started
 
