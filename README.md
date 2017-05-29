@@ -2,6 +2,10 @@
 
 One Paragraph of project description goes here
 
+[![codebeat badge](https://codebeat.co/badges/dc8a4180-51f1-4140-a131-75e85c5d1365)](https://codebeat.co/projects/github-com-cortiz-shttpc-develop)
+[![Build Status](https://travis-ci.org/cortiz/shttpc.svg?branch=master)](https://travis-ci.org/cortiz/shttpc)
+[![codecov](https://codecov.io/gh/cortiz/shttpc/branch/master/graph/badge.svg)](https://codecov.io/gh/cortiz/shttpc)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -65,10 +69,6 @@ Add additional notes about how to deploy this on a live system
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
